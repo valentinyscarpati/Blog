@@ -2,7 +2,7 @@
 
     width: 100%;
     height: 80px;
-    background-color: #3A0099;
+    background-color: #190041;
 
 }
 
@@ -10,7 +10,7 @@
 
     width: 100%;
     height: 903px;
-    background-color: #010424;
+    background-color: #ff0000;
     padding-left: 88px;
     color:#ffffff;
 }
@@ -19,13 +19,14 @@
 
     width: 100%;
     height: 73px;
-    background-color: #3A0099;
+    background-color: transparent;
+
 }
 
 #menu ul{
     padding: 0%;
     margin: 0%;
-    background-color: #3A0099;
+    background-color: #dadada;
     list-style: none; /*tirando os bullets da lista*/
     text-align: center; /*alinhas centro*/  
 }
@@ -44,3 +45,4 @@
 #borda{
     border-left: 20px solid #1A62CF;
 }
+
